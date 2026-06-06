@@ -2,6 +2,7 @@
 Sistem Parkir Mobil Otomatis Mall Prienal adalah program berbasis C++ yang digunakan untuk membantu petugas dalam mengelola data kendaraan yang masuk dan keluar dari area parkir. Program ini mencatat data petugas parkir, menyimpan informasi kendaraan yang sedang parkir, menghitung biaya parkir berdasarkan durasi, serta menampilkan daftar kendaraan yang masih berada di dalam parkiran.
 Selain fitur utama tersebut, program ini juga memiliki dua fitur tambahan yang penting, yaitu **informasi kapasitas parkir** untuk menampilkan jumlah kendaraan yang sedang terparkir dan sisa slot parkir yang tersedia, serta **riwayat kendaraan keluar** untuk menyimpan dan menampilkan data kendaraan yang telah melakukan pembayaran dan keluar dari parkiran. Jika kapasitas parkir telah penuh, sistem akan memberikan pemberitahuan kepada pengguna.
 Program ini dibuat dengan menerapkan konsep **Class/Struct**, **Pointer**, **Vector**, dan **Function** sesuai dengan ketentuan proyek, sehingga struktur program lebih rapi, terorganisir, dan mudah dikembangkan.
+
 Link drive : https://drive.google.com/drive/folders/1InZC2BgWVq0wx4h7ZGummUZzGdEg-xZU?usp=sharing
 
 
