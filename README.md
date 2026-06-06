@@ -1,9 +1,4 @@
-ICE GIRLS
-Keke Gemintang Padang 251401009
-Ika Safira Nst 251401021
-Alia Fitri Azkia 251401027
-Anggun Lizza Anggraini 251401147
-Indah Khairani Pasaribu 251401150
+
 3. Manajemen Inventaris Toko
   Program ini merupakan sistem inventaris toko sederhana berbasis CLI yang dibuat menggunakan C++. Program dapat menyimpan data barang seperti kode, nama, harga, dan stok.
 Selain itu program juga memiliki beberapa fitur seperti menambah barang, menampilkan data barang, mencari barang termahal, menghitung total inventaris, mengecek stok yang hampir habis, dan mengupdate stok barang menggunakan pointer. 
