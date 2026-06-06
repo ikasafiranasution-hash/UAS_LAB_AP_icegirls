@@ -1,4 +1,6 @@
-
+2.PROJECT TEBAK KATA
+TebakKata adalah permainan tebak huruf berbasis teks di C++. Pemain memilih tingkat kesulitan (Easy, Medium, atau Hard), lalu menebak huruf satu per satu untuk menemukan kata tersembunyi yang dipilih secara acak dari 15 kata bertema teknologi dan pendidikan. Setiap tebakan salah akan mengurangi nyawa, dan permainan berakhir dengan kemenangan jika kata berhasil ditebak sebelum nyawa habis, atau kekalahan jika nyawa sampai nol. Skor akhir dihitung berdasarkan sisa nyawa dan level yang dipilih.
+link drive: https://drive.google.com/drive/folders/1gYimlOAMUr_GhPhVZlfJix2omMYoZaIe?usp=drive_link
 3. Manajemen Inventaris Toko
   Program ini merupakan sistem inventaris toko sederhana berbasis CLI yang dibuat menggunakan C++. Program dapat menyimpan data barang seperti kode, nama, harga, dan stok.
 Selain itu program juga memiliki beberapa fitur seperti menambah barang, menampilkan data barang, mencari barang termahal, menghitung total inventaris, mengecek stok yang hampir habis, dan mengupdate stok barang menggunakan pointer. 
