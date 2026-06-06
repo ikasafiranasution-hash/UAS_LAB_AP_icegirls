@@ -1,9 +1,20 @@
+ICE GIRLS
+
+KEKE GEMINTANG PADANG 251401009
+
+IKA SAFIRA NST 251401021
+
+ALIA FITRI AZKIA 251401027
+
+ANGGUN LIZZA ANGGRAINI 251401147
+
+INDAH KHAIRANI PASARIBU 251401150
+
 1. Project 1 : Parkir Mall “Prienal” 
 Sistem Parkir Mobil Otomatis Mall Prienal adalah program berbasis C++ yang digunakan untuk membantu petugas dalam mengelola data kendaraan yang masuk dan keluar dari area parkir. Program ini mencatat data petugas parkir, menyimpan informasi kendaraan yang sedang parkir, menghitung biaya parkir berdasarkan durasi, serta menampilkan daftar kendaraan yang masih berada di dalam parkiran.
 Selain fitur utama tersebut, program ini juga memiliki dua fitur tambahan yang penting, yaitu **informasi kapasitas parkir** untuk menampilkan jumlah kendaraan yang sedang terparkir dan sisa slot parkir yang tersedia, serta **riwayat kendaraan keluar** untuk menyimpan dan menampilkan data kendaraan yang telah melakukan pembayaran dan keluar dari parkiran. Jika kapasitas parkir telah penuh, sistem akan memberikan pemberitahuan kepada pengguna.
 Program ini dibuat dengan menerapkan konsep **Class/Struct**, **Pointer**, **Vector**, dan **Function** sesuai dengan ketentuan proyek, sehingga struktur program lebih rapi, terorganisir, dan mudah dikembangkan.
 Link drive : https://drive.google.com/drive/folders/1InZC2BgWVq0wx4h7ZGummUZzGdEg-xZU?usp=sharing
-
 
 2.PROJECT TEBAK KATA
 TebakKata adalah permainan tebak huruf berbasis teks di C++. Pemain memilih tingkat kesulitan (Easy, Medium, atau Hard), lalu menebak huruf satu per satu untuk menemukan kata tersembunyi yang dipilih secara acak dari 15 kata bertema teknologi dan pendidikan. Setiap tebakan salah akan mengurangi nyawa, dan permainan berakhir dengan kemenangan jika kata berhasil ditebak sebelum nyawa habis, atau kekalahan jika nyawa sampai nol. Skor akhir dihitung berdasarkan sisa nyawa dan level yang dipilih.
@@ -22,3 +33,5 @@ link gdrive: https://drive.google.com/drive/folders/1GlSF7vJswl00uFYCxuzah9kZRvT
 
 5.program tebak negara ini dimana usser akan menajwab tebak tebakaan nama negara dari program memakai srand time untuk hurufacak nya dan skor nya ketika user jawab bener maka akan dimulai dengan 1 tapi jika salah maka skor nya akan mengikuti skor jawaban yang bener sebelumnya, tapi jika percobaan berikutnya setelah salah itu bener maka skor nya akan meneruskan skor yg bener dari percobaan sebelumnya. jika ingin melanjutkan y/Y tapi jika ingin berhenti n/N maka program selesai dan berhenti
 link drive: https://drive.google.com/file/d/1iDi8nOwApghClWq43CAsUblrmU4jWM29/view?usp=drivesdk
+
+link yt: https://youtu.be/fSI6rwIX0Mc?si=P6rZqn6wdTF7kRJC
